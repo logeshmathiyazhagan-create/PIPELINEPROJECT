@@ -45,3 +45,12 @@ git add Jenkinsfile
 git commit -m "firstcommit"
 git remote add origin https://github.com/logeshmathiyazhagan-create/PIPELINE1.git
 git push origin master
+sudo systemctl start jenkins
+sudo nano Jenkinsfile
+git init
+git add Jenkinsfile
+git commit -m "firsttimecommit"
+git commit -m "firstcommit"
+git status
+git add .
+git commit -m "firstcommit"
