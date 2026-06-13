@@ -1,5 +1,5 @@
 pipeline{
-    agent any #(maven,ant,gradle)
+    agent any 
 
     stages{
         stage("Build"){
